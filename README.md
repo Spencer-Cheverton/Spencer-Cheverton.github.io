@@ -17,7 +17,7 @@
                 <h3>Portfolio Highlights</h3>
                 <ul>
                     <li>Experiment controls work on the IBEX Project</li>
-                    <br><a href = "https://farimattar.itch.io/carapace">Narrative Game Design Game Jam runner up</a>
+                    <p><br><a href="https://farimattar.itch.io/carapace">Narrative Game Design Game Jam runner up</a></p>
                     <li>Birminghack 2025 project: JokeLight</li>
                 </ul>
             </td>
