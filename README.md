@@ -16,9 +16,9 @@
             <td>
                 <h3>Portfolio Highlights</h3>
                 <ul>
-                    <li>Experiment controls work on the IBEX Project</li>
-                    <li><p><br><a href="https://farimattar.itch.io/carapace">Narrative Game Design Game Jam runner up</a></p></li>
-                    <li>Birminghack 2025 project: JokeLight</li>
+                    <p><br><a href="https://github.com/ISISComputingGroup">Experiment controls work on the IBEX Project</a></p>
+                    <p><br><a href="https://farimattar.itch.io/carapace">Narrative Game Design Game Jam runner up</a></p>
+                    <p><br><a href="https://github.com/Spencer-Cheverton/Joke-Light">Birminghack 2025 project: JokeLight</a></p>
                 </ul>
             </td>
             <td>
